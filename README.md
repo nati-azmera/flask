@@ -2,4 +2,4 @@
 
 Here is a screenshot of the page:
 
-`![Screenshot](Screenshot.PNG)`
+![Screenshot](Screenshot.PNG)
